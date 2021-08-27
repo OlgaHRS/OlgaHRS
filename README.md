@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OlgaHRS
 - 👀 I’m interested in поиск специалистов  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
+- 🌱 Сейчас я в поиске Senior Python Engineer
+- 💞️ 
+- 📫 TG@OlgaHRS
 
 <!---
 OlgaHRS/OlgaHRS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
