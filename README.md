@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OlgaHRS
 - 👀 I’m interested in поиск специалистов  
 - 🌱 Сейчас я в поиске Senior Python Engineer
-- 💞️ 
 - 📫 TG@OlgaHRS
 
 <!---
